@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="Card">
+		<attr name="size" format="dimension|reference"/>
+	</declare-styleable>
+
+	<declare-styleable name="RadarView">
+		<attr name="startColor" format="color|reference"/>
+		<attr name="endColor" format="color|reference"/>
+		<attr name="bgColor" format="color|reference"/>
+		<attr name="lineColor" format="color|reference"/>
+		<attr name="circleCount" format="color|reference"/>
+	</declare-styleable>
+</resources>
